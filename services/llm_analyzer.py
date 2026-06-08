@@ -48,5 +48,4 @@ print(
     llm_analyzer_answer(
         "I led a team of 5 engineers and improved productivity by 20%"
     )
-)  
-    
+)
